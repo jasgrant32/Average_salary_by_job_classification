@@ -28,3 +28,22 @@
 
 📌 Outcome
 * This project demonstrates how SQL, relational databases, and data visualization tools can work together to answer real-world business questions using structured data.
+* Basic_queries examples
+
+1) -- Which positions have the highest average base salary?
+
+SELECT position_title, avg_base_salary
+FROM job_classifications
+ORDER BY avg_base_salary DESC
+LIMIT 10;
+
+2) -- Which positions have the hightest average base salary with grade number?
+
+SELECT position_title, avg_base_salary, grade 
+FROM job_classifications 
+ORDER BY grade, avg_base_salary ASC;
+
+[Top 10 positions & their average base salaries](https://public.tableau.com/app/profile/jasmine.grant/viz/AverageSalarybyJobClassification/Top10Positions&TheirAverageBaseSalaries)
+
+💡 Recommendation
+* Grade levels could be reassessed to ensure they reflect salary fairness
