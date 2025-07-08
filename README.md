@@ -43,7 +43,7 @@ SELECT position_title, avg_base_salary, grade
 FROM job_classifications 
 ORDER BY grade, avg_base_salary ASC;
 
-[Top 10 positions & their average base salaries](https://public.tableau.com/app/profile/jasmine.grant/viz/AverageSalarybyJobClassification/Top10Positions&TheirAverageBaseSalaries)
+[Salary Trends Across Grades](https://public.tableau.com/app/profile/jasmine.grant/viz/AverageSalarybyJobClassification/SalaryTrendsAcrossGrades)
 
 💡 Recommendation
 * Grade levels could be reassessed to ensure they reflect salary fairness
