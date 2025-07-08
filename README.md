@@ -1,6 +1,7 @@
 # Average_salary_by_job_classification
 
-This dataset provided the insight into salary distributions across various job roles. My analysis & visualizations highlight the top 10 positions, top 5 positions with the highest number of employees and the salary trends with the hightest grade numbers.
+🔍Overview
+* This project analyzes average base salaries across job classifications using SQL and Tableau. The goal is to identify trends in salary by grade, role, and employee distribution to inform workforce planning decisions.
 
 💻 Skills Used
 * SQL (joins, aggregation, filtering, via phpMyAdmin)
