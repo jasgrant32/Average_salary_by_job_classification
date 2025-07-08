@@ -1,0 +1,24 @@
+Summary of Findings – Average Salary by Job Classification
+
+This project explored salary data across a range of job classifications, using SQL to uncover trends in compensation, employee distribution, and grade levels. Here are the key takeaways from the analysis:
+
+🔹 Top 10 Highest-Paid Positions
+The positions with the highest average base salaries were typically specialized or leadership roles. These roles commanded significantly higher compensation compared to the median.
+
+🔹 Most Common Job Classifications (by Number of Employees)
+Manager I is the most frequent job title, making up a large portion of the workforce (29 employees).
+
+Other highly staffed roles include Senior Investment Officer and Medical Doctor Psychiatrist III, indicating high demand in finance and healthcare sectors.
+
+This analysis highlights which roles are not only valuable in compensation but also in staffing volume.
+
+🔹 Salary Trends by Job Grade
+A clear upward trend was found: For an example, being an information tech project manager is found to be the highest paid role while an office clerk is the lowest paid position.
+
+📌 Overall Insight
+This data provides a useful snapshot of how job classification, grade, and employee volume interact with salary. These findings could help HR or leadership teams evaluate compensation fairness, staffing priorities, or workforce planning.
+
+---
+
+Tools Used: SQL (phpMyAdmin), Tableau, GitHub
+
